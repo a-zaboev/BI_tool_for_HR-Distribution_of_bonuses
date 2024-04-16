@@ -31,16 +31,24 @@
 
 <details>
 <summary><h3>Скриншоты</h3></summary>
-<br>
-<img src="" alt='Tableu screen'>
+  <br>
+<img src="https://github.com/a-zaboev/Distribution_of_bonuses--BI_tool_for_HR/blob/main/Monetary_Screen_1.jpg" alt='Tableu screen' width='720''>
+  <br> 
+  _____________________________________________________________________________________________________
+  <br> 
+<img src="https://github.com/a-zaboev/Distribution_of_bonuses--BI_tool_for_HR/blob/main/Monetary_Screen_2.jpg" alt='Tableu screen' width='720''>
+  <br> 
+  _____________________________________________________________________________________________________
+  <br> 
+<img src="https://github.com/a-zaboev/Distribution_of_bonuses--BI_tool_for_HR/blob/main/Monetary_Screen_3.jpg" alt='Tableu screen' width='720''>
 </details>
 
-
-
-### Логика расчёта премии:
+<details>
+<summary><h3>Логика расчёта премии:</h3></summary>
+<br>
 По performance rating определяется процент зарплаты. Рейтинг сотрудника ниже среднего - 5-10% премию от годового дохода, выше среднего - 10-20%. Сотрудники с рейтингом 1 не премируются.
 Сотрудники, выполнившие 15 проектов или больше, получают 8-10% при performance rating ниже среднего и 15-20% при выше среднего. Менее 15 и рейтинг выше среднего - 10-15%, менее 15 и рейтинг ниже среднего - 5-8%.
-
-Файл Dashboard_canvas в приложении. В нём ответы на вопросы, которые призван решить инструмент.
+</details>
+Файл <a href='https://github.com/a-zaboev/Distribution_of_bonuses--BI_tool_for_HR/blob/main/Dashboard_Canvas_Monetary_A_Zaboev.pptx'>Dashboard_canvas в приложении</a>. В нём ответы на вопросы, которые призван решить инструмент.
 
 
