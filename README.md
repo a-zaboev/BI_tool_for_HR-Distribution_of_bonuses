@@ -1,2 +1,2 @@
-# Tool-for-HR-Distribution-of-bonuses-to-employees-for-departments
+# Tool for HR: Distribution of bonuses to employees for departments
 Инструмент для анализа распределения премии с возможностью разбивки по департаментам, должностям и отдельным сотрудникам. Показывает фактические расходы на премию и расходы при изменении границ её размеров относительно зарплаты.
